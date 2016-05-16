@@ -1,6 +1,6 @@
 ##      PLOT3.R
 ##
-##      R code to create plot2 in  Course Project 1.
+##      R code to create plot2 in  Course Project 1 Exploratory Data Analysis.
 ##
 ##      Dataset: Electric power consumption
 ##      Description: Measurements of electric power consumption in one household with a one-minute sampling 
